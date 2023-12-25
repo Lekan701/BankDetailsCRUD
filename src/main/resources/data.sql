@@ -1,0 +1,10 @@
+INSERT INTO account (id, accountName, accountSortCode, accountNumber, accountBalance)
+VALUES (1, 'Lekan Bank Account', '09-00-10', '638393373', '6348.42');
+INSERT INTO ACCOUNT (id, accountName, accountSortCode, accountNumber, accountBalance)
+VALUES (2, 'Furkan Bank Account', '04-00-70', '632957394', '102.32');
+INSERT INTO ACCOUNT (id, accountName, accountSortCode, accountNumber, accountBalance)
+VALUES (3, 'Akif Bank Account', '34-84-56', '573937772', '629829.01');
+INSERT INTO ACCOUNT (id, accountName, accountSortCode, accountNumber, accountBalance)
+VALUES (4, 'Marof Bank Account', '85-37-97', '837129380', '40000.00');
+INSERT INTO ACCOUNT (id, accountName, accountSortCode, accountNumber, accountBalance)
+VALUES (5, 'Baran Bank Account', '36-67-34', '837107467', '258.00');
